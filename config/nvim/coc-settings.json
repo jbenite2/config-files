@@ -1,0 +1,8 @@
+{
+  "languageserver": {
+    "javascript": {
+      "autocomplete": true
+    }
+  }
+}
+

@@ -1,0 +1,1330 @@
+{
+  "coc-python|/Users/josebenitez/.config/nvim": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:e2bae4547168d0c83d20e48964f7bde3": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e2bae4547168d0c83d20e48964f7bde3": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/josebenitez/.config/nvim": {
+      "architecture": 3,
+      "path": "/Users/josebenitez/anaconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/Users/josebenitez/anaconda3",
+      "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/Users/josebenitez/anaconda3/bin/python3.1.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "796fb6b13d99fbbfac8782344969dcb173753bcf2ec11935bf78e8f62e73f0351fe6937cc20ff48311662d79ee4253e52337598516e5d872f52ea629f744ff0f"
+      },
+      "expiry": 1700336207455
+    },
+    "/Users/josebenitez/anaconda3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "d63ad51ec9e8beedd9da4f4ed035a3aebb65aba4ec03606fd0eb0aafa686bf5c0d67cf721ab6a4c55521d4111b43e5d5bb785f1b372cab73f94039a05776713f"
+      },
+      "expiry": 1700336207458
+    },
+    "/Users/josebenitez/anaconda3/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "5cfdc338fec85259d89ec86928a2cbaa47a720486d931bf5496d50ad546c686117af5f55b593421559ee313f0e2a9874d89c2bb6a8de3b0d805dc5cae4ba1e4b"
+      },
+      "expiry": 1700336207345
+    },
+    "/Users/josebenitez/anaconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b"
+      },
+      "expiry": 1700336207348
+    },
+    "/opt/homebrew/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "4e4180a55053bfc5f28a3cb28e1f9c17378c9331f43ae38fecc995ab3d9c950976dfdfc8e2b4ebcff56d52b3ebcac6246ddbf47215590d50e17841e4b11b0f34"
+      },
+      "expiry": 1700336207480
+    },
+    "/opt/homebrew/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "8831436ebe2c04042c96d9d7c502c32f4f91d3e4a40785afbacac9291b9692cd6dfe5ada6a4a00bee243b3ec23c6f1a70986d1be0a7ae24f8259a475ec4e4381"
+      },
+      "expiry": 1700336207483
+    },
+    "/Users/josebenitez/anaconda3/envs/cv1p1/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/envs/cv1p1/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.18-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.18-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3/envs/cv1p1",
+        "fileHash": "afbd2813c47afd00aa598cce5d39c6b999d57e1659ea844b23d5c5124b99a5cc9e65db1a6eb28353dd2128054f17b9ab9b4e9321e6bea3b0d8a36537cf97a4b3"
+      },
+      "expiry": 1700336207697
+    },
+    "/usr/local/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "5c1635a1935ef42a2af4c711067c253d40fe04c2e1ee73a8bf31522dc0d75075061f3799705dbb993030b22b1565b88c92a564452b0ca8734f2f14ccd7fd4113"
+      },
+      "expiry": 1700336207524
+    },
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "2a668eedfc72cd6ba09b0ff863324e3d27a15d9f81cbdb7fb5e718cc4e1f35f59c0f68973c9fa966da3a981a074041c7146e001d196b8831d55f69cf78974e28"
+      },
+      "expiry": 1700336207472
+    },
+    "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "c47e9b44e5a3a619f96868d73893c51485c9363ca3b27fa3961ecdf0bfe8b4a65601ddb877bf730ce519d5741c0d845a78201e7344d64cff0daa1404adb247d2"
+      },
+      "expiry": 1700336207508
+    },
+    "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "98e1b6f4229dfc8a27e1f32843c21c1bc67000b6559fa14ff97ae801423a228abc7aa8fab8306c5dec61df9a6d3923e7d2762120cee00cb1479fe26ef143202b"
+      },
+      "expiry": 1700336207619
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "c47e9b44e5a3a619f96868d73893c51485c9363ca3b27fa3961ecdf0bfe8b4a65601ddb877bf730ce519d5741c0d845a78201e7344d64cff0daa1404adb247d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/josebenitez/anaconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/Users/josebenitez/anaconda3",
+      "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/Users/josebenitez/anaconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/Users/josebenitez/anaconda3",
+      "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+      "type": "Unknown"
+    },
+    "/Users/josebenitez/anaconda3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/josebenitez/anaconda3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.5-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.5-final"
+          },
+          "sysPrefix": "/Users/josebenitez/anaconda3",
+          "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/josebenitez/anaconda3",
+          "envName": "base",
+          "cachedEntry": true,
+          "displayName": "Python 3.11.5 64-bit ('base': conda)",
+          "__store": true
+        }
+      },
+      "expiry": 1700336207731
+    },
+    "/Users/josebenitez/anaconda3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.5 64-bit ('anaconda3': virtualenv)",
+        "hash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b-382a6f5bbf9982605047abc0128425d5"
+      },
+      "expiry": 1700336207742
+    },
+    "CONDA_ENVIRONMENTS": {
+      "data": [
+        {
+          "name": "base",
+          "path": "/Users/josebenitez/anaconda3"
+        },
+        {
+          "name": "cv1p1",
+          "path": "/Users/josebenitez/anaconda3/envs/cv1p1"
+        }
+      ]
+    },
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/josebenitez/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/envs/cv1p1/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.18-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.18-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3/envs/cv1p1",
+        "fileHash": "afbd2813c47afd00aa598cce5d39c6b999d57e1659ea844b23d5c5124b99a5cc9e65db1a6eb28353dd2128054f17b9ab9b4e9321e6bea3b0d8a36537cf97a4b3",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/josebenitez/anaconda3/envs/cv1p1",
+        "envName": "cv1p1"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/josebenitez/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/envs/cv1p1/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.18-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.18-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3/envs/cv1p1",
+        "fileHash": "afbd2813c47afd00aa598cce5d39c6b999d57e1659ea844b23d5c5124b99a5cc9e65db1a6eb28353dd2128054f17b9ab9b4e9321e6bea3b0d8a36537cf97a4b3",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/josebenitez/anaconda3/envs/cv1p1",
+        "envName": "cv1p1"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/josebenitez/anaconda3",
+        "envName": "base"
+      }
+    ],
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "63bc6814444d2f2f7549500f8099e94f990fb3a138c86297e7d681b5c07df8354cc8014cd6d5e141f7b472604b192c58ff50bf1a8393d4b6ef4da93c0cccf0bc"
+      },
+      "expiry": 1700336241107
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "c47e9b44e5a3a619f96868d73893c51485c9363ca3b27fa3961ecdf0bfe8b4a65601ddb877bf730ce519d5741c0d845a78201e7344d64cff0daa1404adb247d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "98e1b6f4229dfc8a27e1f32843c21c1bc67000b6559fa14ff97ae801423a228abc7aa8fab8306c5dec61df9a6d3923e7d2762120cee00cb1479fe26ef143202b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "4e4180a55053bfc5f28a3cb28e1f9c17378c9331f43ae38fecc995ab3d9c950976dfdfc8e2b4ebcff56d52b3ebcac6246ddbf47215590d50e17841e4b11b0f34",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "8831436ebe2c04042c96d9d7c502c32f4f91d3e4a40785afbacac9291b9692cd6dfe5ada6a4a00bee243b3ec23c6f1a70986d1be0a7ae24f8259a475ec4e4381",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "2a668eedfc72cd6ba09b0ff863324e3d27a15d9f81cbdb7fb5e718cc4e1f35f59c0f68973c9fa966da3a981a074041c7146e001d196b8831d55f69cf78974e28",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "5c1635a1935ef42a2af4c711067c253d40fe04c2e1ee73a8bf31522dc0d75075061f3799705dbb993030b22b1565b88c92a564452b0ca8734f2f14ccd7fd4113",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "63bc6814444d2f2f7549500f8099e94f990fb3a138c86297e7d681b5c07df8354cc8014cd6d5e141f7b472604b192c58ff50bf1a8393d4b6ef4da93c0cccf0bc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "d63ad51ec9e8beedd9da4f4ed035a3aebb65aba4ec03606fd0eb0aafa686bf5c0d67cf721ab6a4c55521d4111b43e5d5bb785f1b372cab73f94039a05776713f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "796fb6b13d99fbbfac8782344969dcb173753bcf2ec11935bf78e8f62e73f0351fe6937cc20ff48311662d79ee4253e52337598516e5d872f52ea629f744ff0f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/josebenitez/anaconda3/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/josebenitez/anaconda3",
+        "fileHash": "5cfdc338fec85259d89ec86928a2cbaa47a720486d931bf5496d50ad546c686117af5f55b593421559ee313f0e2a9874d89c2bb6a8de3b0d805dc5cae4ba1e4b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "c47e9b44e5a3a619f96868d73893c51485c9363ca3b27fa3961ecdf0bfe8b4a65601ddb877bf730ce519d5741c0d845a78201e7344d64cff0daa1404adb247d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "98e1b6f4229dfc8a27e1f32843c21c1bc67000b6559fa14ff97ae801423a228abc7aa8fab8306c5dec61df9a6d3923e7d2762120cee00cb1479fe26ef143202b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "4e4180a55053bfc5f28a3cb28e1f9c17378c9331f43ae38fecc995ab3d9c950976dfdfc8e2b4ebcff56d52b3ebcac6246ddbf47215590d50e17841e4b11b0f34",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "8831436ebe2c04042c96d9d7c502c32f4f91d3e4a40785afbacac9291b9692cd6dfe5ada6a4a00bee243b3ec23c6f1a70986d1be0a7ae24f8259a475ec4e4381",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "2a668eedfc72cd6ba09b0ff863324e3d27a15d9f81cbdb7fb5e718cc4e1f35f59c0f68973c9fa966da3a981a074041c7146e001d196b8831d55f69cf78974e28",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "5c1635a1935ef42a2af4c711067c253d40fe04c2e1ee73a8bf31522dc0d75075061f3799705dbb993030b22b1565b88c92a564452b0ca8734f2f14ccd7fd4113",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "63bc6814444d2f2f7549500f8099e94f990fb3a138c86297e7d681b5c07df8354cc8014cd6d5e141f7b472604b192c58ff50bf1a8393d4b6ef4da93c0cccf0bc",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/Users/josebenitez/anaconda3/envs/cv1p1/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.18 64-bit ('cv1p1': conda)",
+        "hash": "afbd2813c47afd00aa598cce5d39c6b999d57e1659ea844b23d5c5124b99a5cc9e65db1a6eb28353dd2128054f17b9ab9b4e9321e6bea3b0d8a36537cf97a4b3-2bede952c2df46ea5962446f106217d8"
+      },
+      "expiry": 1700201084903
+    },
+    "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.4 64-bit",
+        "hash": "c47e9b44e5a3a619f96868d73893c51485c9363ca3b27fa3961ecdf0bfe8b4a65601ddb877bf730ce519d5741c0d845a78201e7344d64cff0daa1404adb247d2-c99e1541091e1fa721f3ed890bb322e1"
+      },
+      "expiry": 1700336241180
+    },
+    "/opt/homebrew/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.4 64-bit",
+        "hash": "4e4180a55053bfc5f28a3cb28e1f9c17378c9331f43ae38fecc995ab3d9c950976dfdfc8e2b4ebcff56d52b3ebcac6246ddbf47215590d50e17841e4b11b0f34-b2d6177b054c0d21c5768a261a4dca48"
+      },
+      "expiry": 1700336241183
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.4 64-bit",
+        "hash": "2a668eedfc72cd6ba09b0ff863324e3d27a15d9f81cbdb7fb5e718cc4e1f35f59c0f68973c9fa966da3a981a074041c7146e001d196b8831d55f69cf78974e28-f40f629dfbfff7b0e6c17c03a31b3efe"
+      },
+      "expiry": 1700336241185
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "63bc6814444d2f2f7549500f8099e94f990fb3a138c86297e7d681b5c07df8354cc8014cd6d5e141f7b472604b192c58ff50bf1a8393d4b6ef4da93c0cccf0bc-eebb65e7beb8e82c53b8c4177181077f"
+      },
+      "expiry": 1700336241187
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/Users/josebenitez/anaconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/Users/josebenitez/anaconda3",
+      "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/josebenitez/anaconda3",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.11.5 64-bit ('base': conda)"
+    },
+    "/Users/josebenitez/anaconda3/envs/cv1p1/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "afbd2813c47afd00aa598cce5d39c6b999d57e1659ea844b23d5c5124b99a5cc9e65db1a6eb28353dd2128054f17b9ab9b4e9321e6bea3b0d8a36537cf97a4b3",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/josebenitez/anaconda3/envs/cv1p1/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.18-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.18-final"
+          },
+          "sysPrefix": "/Users/josebenitez/anaconda3/envs/cv1p1",
+          "fileHash": "afbd2813c47afd00aa598cce5d39c6b999d57e1659ea844b23d5c5124b99a5cc9e65db1a6eb28353dd2128054f17b9ab9b4e9321e6bea3b0d8a36537cf97a4b3",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/josebenitez/anaconda3/envs/cv1p1",
+          "envName": "cv1p1",
+          "displayName": "Python 3.9.18 64-bit ('cv1p1': conda)"
+        }
+      },
+      "expiry": 1700201084964
+    },
+    "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c47e9b44e5a3a619f96868d73893c51485c9363ca3b27fa3961ecdf0bfe8b4a65601ddb877bf730ce519d5741c0d845a78201e7344d64cff0daa1404adb247d2",
+        "info": {
+          "architecture": 3,
+          "path": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.4-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.4-final"
+          },
+          "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+          "fileHash": "c47e9b44e5a3a619f96868d73893c51485c9363ca3b27fa3961ecdf0bfe8b4a65601ddb877bf730ce519d5741c0d845a78201e7344d64cff0daa1404adb247d2",
+          "type": "Unknown",
+          "displayName": "Python 3.11.4 64-bit"
+        }
+      },
+      "expiry": 1700336241196
+    },
+    "/opt/homebrew/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4e4180a55053bfc5f28a3cb28e1f9c17378c9331f43ae38fecc995ab3d9c950976dfdfc8e2b4ebcff56d52b3ebcac6246ddbf47215590d50e17841e4b11b0f34",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.4-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.4-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+          "fileHash": "4e4180a55053bfc5f28a3cb28e1f9c17378c9331f43ae38fecc995ab3d9c950976dfdfc8e2b4ebcff56d52b3ebcac6246ddbf47215590d50e17841e4b11b0f34",
+          "type": "Unknown",
+          "displayName": "Python 3.11.4 64-bit"
+        }
+      },
+      "expiry": 1700336241201
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2a668eedfc72cd6ba09b0ff863324e3d27a15d9f81cbdb7fb5e718cc4e1f35f59c0f68973c9fa966da3a981a074041c7146e001d196b8831d55f69cf78974e28",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.4-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.4-final"
+          },
+          "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
+          "fileHash": "2a668eedfc72cd6ba09b0ff863324e3d27a15d9f81cbdb7fb5e718cc4e1f35f59c0f68973c9fa966da3a981a074041c7146e001d196b8831d55f69cf78974e28",
+          "type": "Unknown",
+          "displayName": "Python 3.11.4 64-bit"
+        }
+      },
+      "expiry": 1700336241206
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "63bc6814444d2f2f7549500f8099e94f990fb3a138c86297e7d681b5c07df8354cc8014cd6d5e141f7b472604b192c58ff50bf1a8393d4b6ef4da93c0cccf0bc",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+          "fileHash": "63bc6814444d2f2f7549500f8099e94f990fb3a138c86297e7d681b5c07df8354cc8014cd6d5e141f7b472604b192c58ff50bf1a8393d4b6ef4da93c0cccf0bc",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1700336241211
+    },
+    "ProposeLSBanner": false,
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/Users/josebenitez/anaconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/Users/josebenitez/anaconda3",
+      "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/josebenitez/anaconda3",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.11.5 64-bit ('base': conda)"
+    }
+  },
+  "coc-python|/Users/josebenitez/.config": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:8ea368edefcc6c69f14d53ac0a6829f6": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:8ea368edefcc6c69f14d53ac0a6829f6": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/josebenitez/.config": {
+      "architecture": 3,
+      "path": "/Users/josebenitez/anaconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/Users/josebenitez/anaconda3",
+      "fileHash": "c24009c3635b63319fc072764b5af1943fbe383caaf8e9400443f39587dd4638968edaa65d9a602dc3c8008d0ea2c2f8ffd700b5bb7aeb5497d1386190d9ee1b",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

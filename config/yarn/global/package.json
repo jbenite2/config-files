@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "craco": "^0.0.3",
+    "prisma": "^4.13.0"
+  }
+}

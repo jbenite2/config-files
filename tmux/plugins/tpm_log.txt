@@ -1,0 +1,49 @@
+Invoking /Users/josebenitez/.tmux/plugins//tpm/bin/clean_plugins all ...
+Removing "dracula-plugins"
+Removing "dracula-plugins"
+  "dracula-plugins" clean success
+  "dracula-plugins" clean success
+Removing "tmux"
+Removing "tmux"
+  "tmux" clean success
+  "tmux" clean success
+Removing "tmux-continuum"
+Removing "tmux-continuum"
+  "tmux-continuum" clean success
+  "tmux-continuum" clean success
+Removing "tmux-fzf"
+Removing "tmux-fzf"
+  "tmux-fzf" clean success
+  "tmux-fzf" clean success
+Removing "tmux-jump"
+Removing "tmux-jump"
+  "tmux-jump" clean success
+  "tmux-jump" clean success
+Removing "tmux-mouse-swipe"
+Removing "tmux-mouse-swipe"
+  "tmux-mouse-swipe" clean success
+  "tmux-mouse-swipe" clean success
+Removing "tmux-now-playing"
+Removing "tmux-now-playing"
+  "tmux-now-playing" clean success
+  "tmux-now-playing" clean success
+Removing "tmux-resurrect"
+Removing "tmux-resurrect"
+  "tmux-resurrect" clean success
+  "tmux-resurrect" clean success
+Removing "tmux-sensible"
+Removing "tmux-sensible"
+  "tmux-sensible" clean success
+  "tmux-sensible" clean success
+Removing "tmux-urlview"
+Removing "tmux-urlview"
+  "tmux-urlview" clean success
+  "tmux-urlview" clean success
+Removing "tmux-yank"
+Removing "tmux-yank"
+  "tmux-yank" clean success
+  "tmux-yank" clean success
+Removing "vim-tmux-navigator"
+Removing "vim-tmux-navigator"
+  "vim-tmux-navigator" clean success
+  "vim-tmux-navigator" clean success

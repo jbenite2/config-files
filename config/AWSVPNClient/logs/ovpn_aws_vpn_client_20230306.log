@@ -1,0 +1,139 @@
+2023-03-06 10:32:39.600 -08:00 [DBG] >LOG:1678127559,D,MANAGEMENT: CMD 'echo on'
+2023-03-06 10:32:39.605 -08:00 [DBG] >LOG:1678127559,D,MANAGEMENT: CMD ''
+2023-03-06 10:32:39.605 -08:00 [DBG] >LOG:1678127559,D,MANAGEMENT: CMD 'username "Auth" N/A'
+2023-03-06 10:32:39.607 -08:00 [DBG] >LOG:1678127559,D,MANAGEMENT: CMD ''
+2023-03-06 10:32:39.608 -08:00 [DBG] >LOG:1678127559,D,MANAGEMENT: CMD 'password [...]'
+2023-03-06 10:32:39.609 -08:00 [DBG] >LOG:1678127559,D,MANAGEMENT: CMD ''
+2023-03-06 10:32:39.705 -08:00 [DBG] >LOG:1678127559,W,NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+2023-03-06 10:32:39.706 -08:00 [DBG] >LOG:1678127559,I,TCP/UDP: Preserving recently used remote address: [AF_INET]35.161.39.197:443
+2023-03-06 10:32:39.706 -08:00 [DBG] >LOG:1678127559,,Socket Buffers: R=[786896->786896] S=[9216->9216]
+2023-03-06 10:32:39.706 -08:00 [DBG] >LOG:1678127559,I,UDP link local: (not bound)
+2023-03-06 10:32:39.706 -08:00 [DBG] >LOG:1678127559,I,UDP link remote: [AF_INET]35.161.39.197:443
+2023-03-06 10:32:39.742 -08:00 [DBG] >LOG:1678127559,,TLS: Initial packet from [AF_INET]35.161.39.197:443, sid=e582a4c1 5cfac114
+2023-03-06 10:32:39.791 -08:00 [DBG] >LOG:1678127559,N,VERIFY ERROR: depth=0, error=unable to get local issuer certificate: CN=gocopia.com
+2023-03-06 10:32:39.791 -08:00 [DBG] >LOG:1678127559,N,OpenSSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+2023-03-06 10:32:39.791 -08:00 [DBG] >LOG:1678127559,N,TLS_ERROR: BIO read tls_read_plaintext error
+2023-03-06 10:32:39.791 -08:00 [DBG] >LOG:1678127559,N,TLS Error: TLS object -> incoming plaintext read error
+2023-03-06 10:32:39.853 -08:00 [DBG] >LOG:1678127559,N,TLS Error: TLS handshake failed
+2023-03-06 10:33:08.004 -08:00 [DBG] >LOG:1678127587,D,MANAGEMENT: CMD 'echo on'
+2023-03-06 10:33:08.005 -08:00 [DBG] >LOG:1678127587,D,MANAGEMENT: CMD ''
+2023-03-06 10:33:08.005 -08:00 [DBG] >LOG:1678127588,D,MANAGEMENT: CMD 'username "Auth" N/A'
+2023-03-06 10:33:08.005 -08:00 [DBG] >LOG:1678127588,D,MANAGEMENT: CMD ''
+2023-03-06 10:33:08.006 -08:00 [DBG] >LOG:1678127588,D,MANAGEMENT: CMD 'password [...]'
+2023-03-06 10:33:08.006 -08:00 [DBG] >LOG:1678127588,D,MANAGEMENT: CMD ''
+2023-03-06 10:33:08.076 -08:00 [DBG] >LOG:1678127588,W,NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+2023-03-06 10:33:08.076 -08:00 [DBG] >LOG:1678127588,I,TCP/UDP: Preserving recently used remote address: [AF_INET]35.166.18.103:443
+2023-03-06 10:33:08.076 -08:00 [DBG] >LOG:1678127588,,Socket Buffers: R=[786896->786896] S=[9216->9216]
+2023-03-06 10:33:08.076 -08:00 [DBG] >LOG:1678127588,I,UDP link local: (not bound)
+2023-03-06 10:33:08.076 -08:00 [DBG] >LOG:1678127588,I,UDP link remote: [AF_INET]35.166.18.103:443
+2023-03-06 10:33:08.121 -08:00 [DBG] >LOG:1678127588,,TLS: Initial packet from [AF_INET]35.166.18.103:443, sid=e77710de 29a10306
+2023-03-06 10:33:08.165 -08:00 [DBG] >LOG:1678127588,N,VERIFY ERROR: depth=0, error=unable to get local issuer certificate: CN=gocopia.com
+2023-03-06 10:33:08.165 -08:00 [DBG] >LOG:1678127588,N,OpenSSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+2023-03-06 10:33:08.165 -08:00 [DBG] >LOG:1678127588,N,TLS_ERROR: BIO read tls_read_plaintext error
+2023-03-06 10:33:08.165 -08:00 [DBG] >LOG:1678127588,N,TLS Error: TLS object -> incoming plaintext read error
+2023-03-06 10:33:08.193 -08:00 [DBG] >LOG:1678127588,N,TLS Error: TLS handshake failed
+2023-03-06 10:39:50.503 -08:00 [DBG] >LOG:1678127990,D,MANAGEMENT: CMD 'echo on'
+2023-03-06 10:39:50.503 -08:00 [DBG] >LOG:1678127990,D,MANAGEMENT: CMD ''
+2023-03-06 10:39:50.504 -08:00 [DBG] >LOG:1678127990,D,MANAGEMENT: CMD 'username "Auth" N/A'
+2023-03-06 10:39:50.504 -08:00 [DBG] >LOG:1678127990,D,MANAGEMENT: CMD ''
+2023-03-06 10:39:50.504 -08:00 [DBG] >LOG:1678127990,D,MANAGEMENT: CMD 'password [...]'
+2023-03-06 10:39:50.505 -08:00 [DBG] >LOG:1678127990,D,MANAGEMENT: CMD ''
+2023-03-06 10:39:50.567 -08:00 [DBG] >LOG:1678127990,W,NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+2023-03-06 10:39:50.567 -08:00 [DBG] >LOG:1678127990,I,TCP/UDP: Preserving recently used remote address: [AF_INET]35.161.39.197:443
+2023-03-06 10:39:50.567 -08:00 [DBG] >LOG:1678127990,,Socket Buffers: R=[786896->786896] S=[9216->9216]
+2023-03-06 10:39:50.567 -08:00 [DBG] >LOG:1678127990,I,UDP link local: (not bound)
+2023-03-06 10:39:50.567 -08:00 [DBG] >LOG:1678127990,I,UDP link remote: [AF_INET]35.161.39.197:443
+2023-03-06 10:39:50.607 -08:00 [DBG] >LOG:1678127990,,TLS: Initial packet from [AF_INET]35.161.39.197:443, sid=c0ec2817 7189041c
+2023-03-06 10:39:50.660 -08:00 [DBG] >LOG:1678127990,,VERIFY OK: depth=3, C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+2023-03-06 10:39:50.660 -08:00 [DBG] >LOG:1678127990,,VERIFY OK: depth=2, C=US, O=Amazon, CN=Amazon Root CA 1
+2023-03-06 10:39:50.660 -08:00 [DBG] >LOG:1678127990,,VERIFY OK: depth=1, C=US, O=Amazon, OU=Server CA 1B, CN=Amazon
+2023-03-06 10:39:50.660 -08:00 [DBG] >LOG:1678127990,,VERIFY KU OK
+2023-03-06 10:39:50.660 -08:00 [DBG] >LOG:1678127990,,Validating certificate extended key usage
+2023-03-06 10:39:50.660 -08:00 [DBG] >LOG:1678127990,,++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2023-03-06 10:39:50.660 -08:00 [DBG] >LOG:1678127990,,VERIFY EKU OK
+2023-03-06 10:39:50.660 -08:00 [DBG] >LOG:1678127990,,VERIFY OK: depth=0, CN=gocopia.com
+2023-03-06 10:39:50.743 -08:00 [DBG] >LOG:1678127990,,Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA
+2023-03-06 10:39:50.743 -08:00 [DBG] >LOG:1678127990,I,[gocopia.com] Peer Connection Initiated with [AF_INET]35.161.39.197:443
+2023-03-06 10:39:52.009 -08:00 [DBG] >LOG:1678127992,,SENT CONTROL [gocopia.com]: 'PUSH_REQUEST' (status=1)
+2023-03-06 10:39:52.049 -08:00 [DBG] >LOG:1678127992,,AUTH: Received control message: AUTH_FAILED,CRV1:R:instance-1/7207504838773445552/1fed7aad-e471-43a4-bfc3-a8c0d65e3012:b'Ti9B':https://portal.sso.us-west-2.amazonaws.com/saml/assertion/NjM3Mjc4MTE1NTEwX2lucy1hMDE3MjhhNGM1YTM0ZWZm?SAMLRequest=fVJNc5swFLz7VzDcAQlikmhsz9DYaT0TXE9Mv3zpKEIJygiJ6omQ9NdXgjYfhwZxWu3u232jBdBWdqTobaOu%2Ba%2Beg50FwWMrFZDxahn2RhFNQQBRtOVALCOHorwiaYxIZ7TVTMvwjeh9DQXgxgqtvGi7XoY%2Fb3OUZYhSRvMzdE5ROj%2BlnKZpjTnKTjKWozzFfI684Cs34LTL0FmNBgA93yqwVFkHojSLkPvzCp%2BR7JzM0dGz1q6XUNSOysbaDkiSdNpYKmMAHfcQDY4SpTFt6W%2Bt6AAx023i2yTPgZPdfZmV9%2BykrDZ4V22G76ns2RNuyvXG4U2z%2B1jiH1WJjt%2BOrR%2B7%2F7ueD0LVQt29v5ebiQTkU1Xto%2F3nQ%2BUtin%2FDL7SCvuXmwM2DYPzL9dXUxBXB6WmM3MEkmyOEw5XTBcHChyfjfszKD56qkYHfwOQBhEnBlX3o1CJ5zX7Rd2Tngm7Xey0Fexpx%2F11q01L7%2Fz7YZfGIqKPbkUp4S4Us6tpwgPDZp5BSDxeGU8uXoTU9D4NkNZtNad4%2By9Uf
+2023-03-06 10:39:52.339 -08:00 [DBG] >LOG:1678127992,I,SIGUSR1[soft,auth-failure] received, process restarting
+2023-03-06 10:39:52.339 -08:00 [DBG] >LOG:1678127992,,Restart pause, 5 second(s)
+2023-03-06 10:40:05.461 -08:00 [DBG] >LOG:1678128005,D,MANAGEMENT: CMD 'username "Auth" N/A'
+2023-03-06 10:40:05.464 -08:00 [DBG] >LOG:1678128005,D,MANAGEMENT: CMD ''
+2023-03-06 10:40:05.465 -08:00 [DBG] >LOG:1678128005,D,MANAGEMENT: CMD 'password [...]'
+2023-03-06 10:40:05.480 -08:00 [DBG] >LOG:1678128005,D,MANAGEMENT: CMD ''
+2023-03-06 10:40:05.481 -08:00 [DBG] >LOG:1678128005,W,NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+2023-03-06 10:40:05.481 -08:00 [DBG] >LOG:1678128005,I,TCP/UDP: Preserving recently used remote address: [AF_INET]35.161.39.197:443
+2023-03-06 10:40:05.481 -08:00 [DBG] >LOG:1678128005,,Socket Buffers: R=[786896->786896] S=[9216->9216]
+2023-03-06 10:40:05.481 -08:00 [DBG] >LOG:1678128005,I,UDP link local: (not bound)
+2023-03-06 10:40:05.481 -08:00 [DBG] >LOG:1678128005,I,UDP link remote: [AF_INET]35.161.39.197:443
+2023-03-06 10:40:05.516 -08:00 [DBG] >LOG:1678128005,,TLS: Initial packet from [AF_INET]35.161.39.197:443, sid=acca5b40 76d386a6
+2023-03-06 10:40:05.560 -08:00 [DBG] >LOG:1678128005,,VERIFY OK: depth=3, C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+2023-03-06 10:40:05.560 -08:00 [DBG] >LOG:1678128005,,VERIFY OK: depth=2, C=US, O=Amazon, CN=Amazon Root CA 1
+2023-03-06 10:40:05.561 -08:00 [DBG] >LOG:1678128005,,VERIFY OK: depth=1, C=US, O=Amazon, OU=Server CA 1B, CN=Amazon
+2023-03-06 10:40:05.561 -08:00 [DBG] >LOG:1678128005,,VERIFY KU OK
+2023-03-06 10:40:05.561 -08:00 [DBG] >LOG:1678128005,,Validating certificate extended key usage
+2023-03-06 10:40:05.561 -08:00 [DBG] >LOG:1678128005,,++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2023-03-06 10:40:05.561 -08:00 [DBG] >LOG:1678128005,,VERIFY EKU OK
+2023-03-06 10:40:05.561 -08:00 [DBG] >LOG:1678128005,,VERIFY OK: depth=0, CN=gocopia.com
+2023-03-06 10:40:05.735 -08:00 [DBG] >LOG:1678128005,,Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA
+2023-03-06 10:40:05.737 -08:00 [DBG] >LOG:1678128005,I,[gocopia.com] Peer Connection Initiated with [AF_INET]35.161.39.197:443
+2023-03-06 10:40:06.814 -08:00 [DBG] >LOG:1678128006,,SENT CONTROL [gocopia.com]: 'PUSH_REQUEST' (status=1)
+2023-03-06 10:40:06.857 -08:00 [DBG] >LOG:1678128006,,PUSH: Received control message: 'PUSH_REPLY,dhcp-option DNS 180.0.0.2,route 180.0.0.0 255.255.0.0,route-gateway 20.0.0.33,topology subnet,ping 1,ping-restart 20,ifconfig 20.0.0.34 255.255.255.224,peer-id 0,cipher AES-256-GCM'
+2023-03-06 10:40:06.859 -08:00 [DBG] >LOG:1678128006,,OPTIONS IMPORT: timers and/or timeouts modified
+2023-03-06 10:40:06.861 -08:00 [DBG] >LOG:1678128006,,OPTIONS IMPORT: --ifconfig/up options modified
+2023-03-06 10:40:06.861 -08:00 [DBG] >LOG:1678128006,,OPTIONS IMPORT: route options modified
+2023-03-06 10:40:06.861 -08:00 [DBG] >LOG:1678128006,,OPTIONS IMPORT: route-related options modified
+2023-03-06 10:40:06.861 -08:00 [DBG] >LOG:1678128006,,OPTIONS IMPORT: --ip-win32 and/or --dhcp-option options modified
+2023-03-06 10:40:06.862 -08:00 [DBG] >LOG:1678128006,,OPTIONS IMPORT: peer-id set
+2023-03-06 10:40:06.862 -08:00 [DBG] >LOG:1678128006,,OPTIONS IMPORT: adjusting link_mtu to 1624
+2023-03-06 10:40:06.862 -08:00 [DBG] >LOG:1678128006,,OPTIONS IMPORT: data channel crypto options modified
+2023-03-06 10:40:06.864 -08:00 [DBG] >LOG:1678128006,,Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+2023-03-06 10:40:06.864 -08:00 [DBG] >LOG:1678128006,,Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+2023-03-06 10:40:06.864 -08:00 [DBG] >LOG:1678128006,,ROUTE_GATEWAY 10.0.0.1/255.255.255.0 IFACE=en0 HWADDR=a4:cf:99:6a:b8:ae
+2023-03-06 10:40:06.864 -08:00 [DBG] >LOG:1678128006,,Opening utun (connect(AF_SYS_CONTROL)): Resource busy (errno=16)
+2023-03-06 10:40:06.865 -08:00 [DBG] >LOG:1678128006,,Opening utun (connect(AF_SYS_CONTROL)): Resource busy (errno=16)
+2023-03-06 10:40:06.865 -08:00 [DBG] >LOG:1678128006,,Opening utun (connect(AF_SYS_CONTROL)): Resource busy (errno=16)
+2023-03-06 10:40:06.865 -08:00 [DBG] >LOG:1678128006,,Opening utun (connect(AF_SYS_CONTROL)): Resource busy (errno=16)
+2023-03-06 10:40:06.866 -08:00 [DBG] >LOG:1678128006,,Opening utun (connect(AF_SYS_CONTROL)): Resource busy (errno=16)
+2023-03-06 10:40:06.866 -08:00 [DBG] >LOG:1678128006,,Opening utun (connect(AF_SYS_CONTROL)): Resource busy (errno=16)
+2023-03-06 10:40:06.867 -08:00 [DBG] >LOG:1678128006,,Opening utun (connect(AF_SYS_CONTROL)): Resource busy (errno=16)
+2023-03-06 10:40:06.867 -08:00 [DBG] >LOG:1678128006,I,Opened utun device utun7
+2023-03-06 10:40:06.867 -08:00 [DBG] >LOG:1678128006,D,do_ifconfig, tt->did_ifconfig_ipv6_setup=0
+2023-03-06 10:40:06.867 -08:00 [DBG] >LOG:1678128006,I,/sbin/ifconfig utun7 delete
+2023-03-06 10:40:06.907 -08:00 [DBG] >LOG:1678128006,I,NOTE: Tried to delete pre-existing tun/tap instance -- No Problem if failure
+2023-03-06 10:40:06.908 -08:00 [DBG] >LOG:1678128006,I,/sbin/ifconfig utun7 20.0.0.34 20.0.0.34 netmask 255.255.255.224 mtu 1500 up
+2023-03-06 10:40:06.921 -08:00 [DBG] >LOG:1678128006,,/sbin/route add -net 20.0.0.32 20.0.0.34 255.255.255.224
+2023-03-06 10:40:06.941 -08:00 [DBG] >LOG:1678128006,I,/Applications/AWS VPN Client/AWS VPN Client.app/Contents/Resources/openvpn/client.up utun7 1500 1552 20.0.0.34 255.255.255.224 init
+2023-03-06 10:40:10.981 -08:00 [DBG] >LOG:1678128010,,/sbin/route add -net 180.0.0.0 20.0.0.33 255.255.0.0
+2023-03-06 10:40:10.984 -08:00 [DBG] >LOG:1678128010,I,Initialization Sequence Completed
+2023-03-06 11:07:10.179 -08:00 [DBG] >LOG:1678129630,I,[gocopia.com] Inactivity timeout (--ping-restart), restarting
+2023-03-06 11:07:10.180 -08:00 [DBG] >LOG:1678129630,,/sbin/route delete -net 180.0.0.0 20.0.0.33 255.255.0.0
+2023-03-06 11:07:10.192 -08:00 [DBG] >LOG:1678129630,,Closing TUN/TAP interface
+2023-03-06 11:07:10.193 -08:00 [DBG] >LOG:1678129630,I,/Applications/AWS VPN Client/AWS VPN Client.app/Contents/Resources/openvpn/client.down utun7 1500 1552 20.0.0.34 255.255.255.224 init
+2023-03-06 11:07:10.608 -08:00 [DBG] >LOG:1678129630,I,SIGUSR1[soft,ping-restart] received, process restarting
+2023-03-06 11:07:10.622 -08:00 [DBG] >LOG:1678129630,,Restart pause, 5 second(s)
+2023-03-06 11:07:15.181 -08:00 [DBG] >LOG:1678129635,D,MANAGEMENT: CMD 'username "Auth" N/A'
+2023-03-06 11:07:15.183 -08:00 [DBG] >LOG:1678129635,D,MANAGEMENT: CMD ''
+2023-03-06 11:07:15.185 -08:00 [DBG] >LOG:1678129635,D,MANAGEMENT: CMD 'password [...]'
+2023-03-06 11:07:15.187 -08:00 [DBG] >LOG:1678129635,D,MANAGEMENT: CMD ''
+2023-03-06 11:07:15.187 -08:00 [DBG] >LOG:1678129635,W,NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+2023-03-06 11:07:15.189 -08:00 [DBG] >LOG:1678129635,I,TCP/UDP: Preserving recently used remote address: [AF_INET]35.161.39.197:443
+2023-03-06 11:07:15.191 -08:00 [DBG] >LOG:1678129635,,Socket Buffers: R=[786896->786896] S=[9216->9216]
+2023-03-06 11:07:15.191 -08:00 [DBG] >LOG:1678129635,I,UDP link local: (not bound)
+2023-03-06 11:07:15.191 -08:00 [DBG] >LOG:1678129635,I,UDP link remote: [AF_INET]35.161.39.197:443
+2023-03-06 11:07:15.245 -08:00 [DBG] >LOG:1678129635,,TLS: Initial packet from [AF_INET]35.161.39.197:443, sid=86d55328 e3d53a09
+2023-03-06 11:07:15.287 -08:00 [DBG] >LOG:1678129635,,VERIFY OK: depth=3, C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+2023-03-06 11:07:15.289 -08:00 [DBG] >LOG:1678129635,,VERIFY OK: depth=2, C=US, O=Amazon, CN=Amazon Root CA 1
+2023-03-06 11:07:15.290 -08:00 [DBG] >LOG:1678129635,,VERIFY OK: depth=1, C=US, O=Amazon, OU=Server CA 1B, CN=Amazon
+2023-03-06 11:07:15.291 -08:00 [DBG] >LOG:1678129635,,VERIFY KU OK
+2023-03-06 11:07:15.291 -08:00 [DBG] >LOG:1678129635,,Validating certificate extended key usage
+2023-03-06 11:07:15.291 -08:00 [DBG] >LOG:1678129635,,++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2023-03-06 11:07:15.291 -08:00 [DBG] >LOG:1678129635,,VERIFY EKU OK
+2023-03-06 11:07:15.291 -08:00 [DBG] >LOG:1678129635,,VERIFY OK: depth=0, CN=gocopia.com
+2023-03-06 11:07:15.370 -08:00 [DBG] >LOG:1678129635,,Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA
+2023-03-06 11:07:15.371 -08:00 [DBG] >LOG:1678129635,I,[gocopia.com] Peer Connection Initiated with [AF_INET]35.161.39.197:443
+2023-03-06 11:07:16.659 -08:00 [DBG] >LOG:1678129636,,SENT CONTROL [gocopia.com]: 'PUSH_REQUEST' (status=1)
+2023-03-06 11:07:16.704 -08:00 [DBG] >LOG:1678129636,,AUTH: Received control message: AUTH_FAILED,CRV1:R:instance-2/7207511904666784688/906b630d-37bd-42be-8d89-8e8eae8f4e90:b'Ti9B':https://portal.sso.us-west-2.amazonaws.com/saml/assertion/NjM3Mjc4MTE1NTEwX2lucy1hMDE3MjhhNGM1YTM0ZWZm?SAMLRequest=fVJNc5swFLz7VzDcAQnbsaOxPUNjt%2FVMcD0x6YcvHQWJooyQqJ4ISX99JWjS5tAgTqvdfbtvtALayJZkna3VDf%2FZcbCTIHhspAIyXK3DziiiKQggijYciC3JKcuvSRoj0hptdall%2BEr0toYCcGOFVl60367D75xVbF5hVM2q5YKxqpotKE0ZvrhkVYlnCKHpfFnhpRd85gacdh06q8EAoON7BZYq60CUTiPk%2FosCXxK0IHh%2B9qyt6yUUtYOytrYFkiStNpbKGEDHHUS9o0RpTBv6SyvaQ1zqJvFtkpfAyeE%2Bn%2Bb35SwvdvhQ7PqvqezKJ1zn253D6%2FrwIcffihydv5wbP%2Fb4Zz3vhGJC%2FXh7L3cjCcjHojhGx0%2Bnwltkz8OvtIKu4ebEzYMo%2Be3N9djEFcHpIkbuYDKdI4TDjdMFwcqHJ8N%2BzMYPHquRnt%2FB6AGklIIr%2B9CqVfIv%2B6%2B%2BJQcXdL89ainKpwH333ttGmr%2F3we7LB4RLKoGKuENFTJjzHCA8MUnk1L3V4ZTy9ehNR0Pg2QzmYxpXj%2FLzW8%3D
+2023-03-06 11:24:06.310 -08:00 [DBG] >LOG:1678129636,I,SIGUSR1[soft,auth-failure] received, process restarting
+2023-03-06 11:24:06.310 -08:00 [DBG] >LOG:1678129636,,Restart pause, 5 second(s)
