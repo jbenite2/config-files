@@ -1,3 +1,4 @@
+
 :set relativenumber
 :set autoindent
 :set number
@@ -10,6 +11,7 @@
 
 
 call plug#begin()
+
 
 Plug 'http://github.com/tpope/vim-surround' "Surrounding ysw)
 Plug 'https://github.com/preservim/nerdtree' " NerdTree
@@ -56,6 +58,11 @@ Plug 'nathanaelkane/vim-indent-guides'
 
 Plug 'nvim-pack/nvim-spectre'
 
+Plug 'diepm/vim-rest-console'
+
+Plug 'kylechui/nvim-surround'
+
+
 call plug#end()
 
 " inoremap <silent><expr> <tab> pumvisible() ? coc#_select_confirm() : "\<C-g>u\<TAB>"
@@ -63,6 +70,12 @@ call plug#end()
 
 inoremap <silent><expr> <tab> pumvisible() ? coc#_select_confirm() : "\<C-g>u\<TAB>"
 inoremap <silent><expr> <cr> "\<C-g>u\<CR>"
+
+
+" let g:copilot_filetypes = {
+" 	  \ '*': v:false,
+" 	  \ }
+
 
 
 " nnoremap <C-f> :NERDTreeFocus<CR>
